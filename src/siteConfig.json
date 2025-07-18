@@ -1,0 +1,20 @@
+{
+  "name": "Yendo al ritmo",
+  "bio": "de ÁLGEBRA (Compu)",
+  "profilePicture": "/profile-picture.jpg",
+  "url": "https://algebra.goalritmo.com",
+  "blog": true,
+  "iconLinks": [],
+  "customLinks": [
+    {
+      "id": "1728534585738",
+      "title": "🎥 Clases Teóricas de Álgebra",
+      "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9IxswtYBaslOAxjSrJH1PHBv"
+    },
+    {
+      "id": "1728534585739",
+      "title": "🎥 Clases Prácticas de Álgebra",
+      "url": "https://www.youtube.com/playlist?list=PLLswL1pDm9Ix-iXIWZUUHQ-RNoY4F_ehn"
+    }
+  ]
+}
